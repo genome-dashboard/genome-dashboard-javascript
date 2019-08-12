@@ -1,0 +1,30 @@
+{
+  "name": "genomedashboard",
+  "version": "0.0.1",
+  "description": "Genome Dashboard is the logic behind a web-based prototype of a genomics dashboard, specifically designed to integrate informatics and 4D material studies of chromatin. Genome Dashboard unites our Interactive Chromatin Modeling (ICM) tools with the Biodalliance genome browser and the JSMol molecular viewer to rapidly fold any DNA sequence into atomic or coarse-grained models of DNA, nucleosomes or chromatin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genome-dashboard/genome-dashboard-javascript.git"
+  },
+  "keywords": [
+    "genome",
+    "dashboard",
+    "genomics",
+    "interactive",
+    "chromatin",
+    "modelling",
+    "dna",
+    "sequence",
+    "nucleosomes"
+  ],
+  "author": "John Gentle, Thomas C. Bishop, Zilong Li, Ran Sun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/genome-dashboard/genome-dashboard-javascript/issues"
+  },
+  "homepage": "https://github.com/genome-dashboard/genome-dashboard-javascript#readme"
+}
